@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/Cloud/Documents/P2/controladorserie/tb_shiftregister_isim_beh.exe" -prj "C:/Users/Cloud/Documents/P2/controladorserie/tb_shiftregister_beh.prj" "work.tb_shiftregister" 
